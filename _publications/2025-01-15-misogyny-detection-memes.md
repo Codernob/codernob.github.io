@@ -6,7 +6,7 @@ permalink: /publication/2025-05-01-misogyny-detection-memes
 excerpt: 'Developed an ensemble approach using CLIP and Large Language Models for detecting misogyny in memes, achieving runner-up position in the DravidianLangTech@NAACL 2025 shared task.'
 date: 2025-05-01
 venue: 'Fifth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages at NAACL 2025'
-paperurl: 'https://github.com/your-implementation-link'
+paperurl: 'https://aclanthology.org/2025.dravidianlangtech-1.63/'
 citation: 'Monjusha Preeti, N., Chakraborty, T., Arnob, N. M. K., Mahmud, S., & Wasi, A. T. (2025). Ensemble approach for misogyny detection in memes using pre-trained text and vision transformers. In Proceedings of the Fifth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages. NAACL 2025.'
 ---
 
