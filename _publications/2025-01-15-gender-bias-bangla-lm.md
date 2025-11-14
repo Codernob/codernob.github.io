@@ -6,7 +6,7 @@ permalink: /publication/2025-06-01-gender-bias-bangla-lm
 excerpt: 'Evaluated gender bias of 11 pretrained Bangla large and small language models using 5 numerical and visual metrics across STEM and SHAPE professional fields.'
 date: 2025-06-01
 venue: '6th Workshop on Gender Bias in Natural Language Processing (GeBNLP) at ACL 2025'
-paperurl: 'https://github.com/your-implementation-link'
+paperurl: 'https://aclanthology.org/2025.gebnlp-1.24/'
 citation: 'Arnob, N. M. K., Mahmud, S., & Wasi, A. T. (2025). Assessing Gender Bias of Pretrained Bangla Language Models in STEM and SHAPE Fields. In Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP). ACL 2025.'
 ---
 
