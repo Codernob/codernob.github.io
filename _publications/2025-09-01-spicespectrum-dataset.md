@@ -6,7 +6,7 @@ permalink: /publication/2025-09-01-spicespectrum-dataset
 excerpt: 'Comprehensive visual dataset of 11,000 high-quality images across 11 globally significant spices, curated to support research in agriculture, trade, and culinary arts with real-world diverse scenarios from Bangladesh.'
 date: 2025-09-01
 venue: 'Data in Brief'
-paperurl: 'https://doi.org/10.1016/j.dib.2025.110690'
+paperurl: 'https://doi.org/10.1016/j.dib.2025.112097'
 citation: 'Ramim, Md. N. J., Islam, S., Towkir, M., Fuad, M. M., & Arnob, N. M. K. (2025). SpiceSpectrum: Class-balanced dataset of commercially valuable spice cultivars. Data in Brief.'
 ---
 
