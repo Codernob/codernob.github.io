@@ -6,7 +6,7 @@ permalink: /publication/2023-11-01-mukh-oboyob-stable-diffusion
 excerpt: 'Developed an improved Bangla text-to-face generation system using Stable Diffusion and BanglaBERT, funded by UAP research grant.'
 date: 2023-11-01
 venue: 'International Journal of Advanced Computer Science & Applications'
-paperurl: 'https://thesai.org/Publications/ViewPaper?Volume=14&Issue=11&Code=IJACSA'
+paperurl: 'https://thesai.org/Publications/ViewPaper?Volume=14&Issue=11&Code=IJACSA&SerialNo=142'
 citation: 'Saha, A. K., Arnob, N. M. K., Rahman, N. N., Haque, M., Al Masud, S. M. R., & Rahman, R. (2023). Mukh-Oboyob: Stable Diffusion and BanglaBERT Enhanced Bangla Text-to-Face Synthesis. International Journal of Advanced Computer Science & Applications, 14(11).'
 ---
 
