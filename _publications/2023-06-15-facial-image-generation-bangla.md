@@ -6,7 +6,7 @@ permalink: /publication/2023-06-01-facial-image-generation-bangla
 excerpt: 'First system for generating face images from Bangla text descriptions using DCGAN and FastText, based on undergraduate thesis work.'
 date: 2023-06-01
 venue: 'International Journal of Advanced Computer Science and Applications'
-paperurl: 'https://thesai.org/Publications/ViewPaper?Volume=14&Issue=6&Code=IJACSA'
+paperurl: 'https://thesai.org/Publications/ViewPaper?Volume=14&Issue=6&Code=IJACSA&SerialNo=134'
 citation: 'Arnob, N. M. K., Rahman, N. N., Mahmud, S., Uddin, M. N., Rahman, R., & Saha, A. K. (2023). Facial Image Generation from Bangla Textual Description using DCGAN and Bangla FastText. International Journal of Advanced Computer Science and Applications, 14(6).'
 ---
 
