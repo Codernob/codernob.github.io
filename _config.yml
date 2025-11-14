@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Noor Mairukh Khan Arnob"
 title_separator          : " "
-name                     : &name "Noor Mairukh KHan Arnob"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Noor Mairukh Khan Arnob"
+description              : &description "Generative AI Researcher specializing in multimodal AI systems for low-resource languages"
 url                      : https://codernob.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Noor Mairukh Khan Arnob"
-  pronouns         :  "he/him"  
-  bio              : "Deep Learning Researcher"
+  pronouns         : "he/him"  
+  bio              : "Generative AI Researcher | Lecturer at UAP | PhD Applicant Fall 2026"
   location         : "Dhaka, Bangladesh"
   employer         : "University of Asia Pacific"
   uri              : # URL
@@ -41,20 +41,20 @@ author:
   orcid            : "https://orcid.org/0009-0008-6278-4134"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Noor-Arnob"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Codernob"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "nmkarnob"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -299,7 +299,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Dhaka # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
