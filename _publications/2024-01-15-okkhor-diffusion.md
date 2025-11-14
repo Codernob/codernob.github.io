@@ -6,7 +6,7 @@ permalink: /publication/2024-03-01-okkhor-diffusion
 excerpt: 'Developed a class-guided DDPM system for generating Bangla handwritten characters with a novel evaluation metric tailored for Bangla script.'
 date: 2024-03-01
 venue: 'IEEE Access'
-paperurl: 'https://ieeexplore.ieee.org/document/your-doi'
+paperurl: 'https://ieeexplore.ieee.org/document/10445466'
 citation: 'Fuad, M. M., Faiyaz, A., Arnob, N. M. K., Mridha, M. F., Saha, A. K., & Aung, Z. (2024). Okkhor-Diffusion: Class Guided Generation of Bangla Isolated Handwritten Characters using Denoising Diffusion Probabilistic Model (DDPM). IEEE Access.'
 ---
 
