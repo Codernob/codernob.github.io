@@ -24,4 +24,4 @@ This research demonstrates the effectiveness of diffusion models over GANs for t
 
 **Funding:** Institute of Energy, Environment, Research and Development (IEERD), University of Asia Pacific (~$3,000)
 
-[Implementation on GitHub]([https://github.com/your-implementation-link](https://github.com/Codernob/Mukh-Oboyob))
+[Implementation on GitHub](https://github.com/Codernob/Mukh-Oboyob)
