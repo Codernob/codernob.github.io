@@ -24,4 +24,4 @@ This pioneering work opened new research directions in Bangla text-to-image gene
 
 **Applications:** Advertising, forensics, animation, entertainment, and digital content creation
 
-[Implementation on GitHub]([https://github.com/your-implementation-link](https://github.com/Codernob/Bangla-Text-to-Face-Implementation))
+[Implementation on GitHub](https://github.com/Codernob/Bangla-Text-to-Face-Implementation)
