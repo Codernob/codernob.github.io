@@ -26,7 +26,7 @@ This pioneering work opened new research directions in Bangla text-to-image gene
 
 **Applications:** Advertising, forensics, animation, entertainment, and digital content creation
 
-Read the entire paper at: https://thesai.org/Publications/ViewPaper?Volume=14&Issue=6&Code=IJACSA&SerialNo=134
+Read the entire paper [here](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=6&Code=IJACSA&SerialNo=134)
 
 [Implementation on GitHub](https://github.com/Codernob/Bangla-Text-to-Face-Implementation)
 
