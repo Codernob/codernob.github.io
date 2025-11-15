@@ -24,4 +24,4 @@ This work introduces IndicDialogue, a comprehensive multilingual dataset contain
 
 The dataset fills a critical gap in resources for Indic language NLP and enables research in dialogue systems, language modeling, and transfer learning for these underrepresented languages.
 
-[Implementation on GitHub]([https://github.com/your-implementation-link](https://github.com/Codernob/IndicDialogue))
+[Implementation on GitHub](https://github.com/Codernob/IndicDialogue)
