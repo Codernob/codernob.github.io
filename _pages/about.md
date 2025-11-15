@@ -43,7 +43,7 @@ Looking Forward
 ======
 I am excited to pursue doctoral studies where I can continue advancing multimodal generative AI systems, particularly focusing on making these technologies more robust, efficient, and accessible across diverse languages and cultures. I aim to contribute to building AI systems that are not only technically sophisticated but also ethically sound and globally inclusive.
 
-Feel free to explore my [publications](/publications/), [teaching experience](/teaching/), and [CV](/cv/) to learn more about my work. I am always open to research collaborations and discussions about generative AI, low-resource language technologies, and fairness in machine learning.
+Feel free to explore my [publications](/publications/) to learn more about my work. I am always open to research collaborations and discussions about generative AI, low-resource language technologies, and fairness in machine learning.
 
 Contact
 ======
