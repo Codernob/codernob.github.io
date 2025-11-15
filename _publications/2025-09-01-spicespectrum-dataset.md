@@ -49,6 +49,8 @@ This dataset addresses the need for high-quality, standardized visual data of co
 
 [Dataset Access](https://data.mendeley.com/datasets/5v7w2hx8n5/2)
 
+Read the entire paper [here](https://www.sciencedirect.com/science/article/pii/S2352340925008194)
+
 **Recommended citation:**
 
 ```bibtex
