@@ -45,4 +45,4 @@ This data paper introduces SpiceSpectrum, a comprehensive visual dataset of 11 g
 
 This dataset addresses the need for high-quality, standardized visual data of commercially valuable spices and serves as a valuable resource for both academic research and practical applications in agriculture, trade, and the food industry.
 
-[Dataset Access](https://www.sciencedirect.com/science/article/pii/S2352340925008194)
+[Dataset Access](https://data.mendeley.com/datasets/5v7w2hx8n5/2)
