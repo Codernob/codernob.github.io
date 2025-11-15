@@ -96,6 +96,6 @@ This workshop directly prepared participants for the **HerWILL AI for Equality D
 
 **Related Links:**
 - [HerWILL Official Website](https://www.herwill.org)
-- [HerWILL AI for Equality Datathon](https://www.kaggle.com/competitions/herwill-ai-for-equality-2024)
+- [HerWILL AI for Equality Datathon](https://www.kaggle.com/competitions/her-will-ai-for-equality-datathon-2024)
 
 **Tags**: #HerWILL #AIforEquality #KaggleCompetitions #Datathon #MachineLearning #STEMEducation #WomenInSTEM
