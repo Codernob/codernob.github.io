@@ -4,7 +4,7 @@ permalink: /teaching/
 layout: archive
 author_profile: true
 type: "Overview"
-
+collection: teaching
 ---
 
 ## Lecturer
