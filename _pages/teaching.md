@@ -2,7 +2,7 @@
 title: "Teaching Experience"
 collection: teaching
 type: "Overview"
-permalink: /teaching/teaching-experience
+permalink: /teaching/
 venue: "University of Asia Pacific, Department of Computer Science and Engineering"
 date: 2023-07-01
 location: "Dhaka, Bangladesh"
