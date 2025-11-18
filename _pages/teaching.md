@@ -12,11 +12,11 @@ collection: teaching
 Department of Computer Science and Engineering, University of Asia Pacific
 
 ### Courses Taught
-- **Structured Programming** (CSE 103): Introduction to programming using C language, covering fundamentals, control structures, functions, arrays, pointers, and file handling
+- **Structured Programming**: Introduction to programming using C language, covering fundamentals, control structures, functions, arrays, pointers, and file handling
 - **Numerical Methods**: Numerical techniques for solving mathematical problems including root finding, linear systems, interpolation, differentiation, integration, and optimization
 - **Operating Systems**: Fundamentals of operating system concepts, process management, memory management, file systems, and system security
 - **Machine Learning**: Introduction to machine learning algorithms, supervised and unsupervised learning, neural networks, and deep learning fundamentals
-- **Mathematics for Computer Science**: Recurrence relations, Probability Theory, Markov Chain, Bayes Theorem, Binomial Distributions, Poisson Distribution
+- **Mathematics for Computer Science**: Recurrence relations, Probability Theory, Markov Chain, Bayes Theorem, Binomial Distribution, Poisson Distribution
 
 <img width="1061" height="636" alt="image" src="https://github.com/user-attachments/assets/66b813e8-0542-4105-94c7-cb3ac32b8915" />
 
