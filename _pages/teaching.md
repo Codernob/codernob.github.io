@@ -1,7 +1,10 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-layout: page
+layout: archive
+author_profile: true
+type: "Overview"
+
 ---
 
 ## Lecturer
