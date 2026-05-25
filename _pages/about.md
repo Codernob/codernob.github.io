@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Noor Mairukh Khan Arnob, a Lecturer in the Department of Computer Science and Engineering at the University of Asia Pacific (UAP), Bangladesh. I am currently applying for PhD programs starting Fall 2026, with research interests centered on developing multimodal generative AI systems that work effectively across languages and modalities.
+Welcome! I am Noor Mairukh Khan Arnob, a Lecturer in the Department of Computer Science and Engineering at the University of Asia Pacific (UAP), Bangladesh. My research interests are centered on developing multimodal generative AI systems that work effectively across languages and modalities.
 
 Research Interests
 ======
@@ -18,6 +18,8 @@ My research focuses on advancing generative modeling techniques while ensuring t
 * **Fairness and Bias in AI**: Detecting and mitigating gender bias and other forms of bias in pretrained language models and multimodal systems
 * **Text-to-Image Generation**: Creating robust systems for generating realistic images from textual descriptions using state-of-the-art generative models
 * **Edge AI and Efficient Inference**: Deploying neural networks on resource-constrained devices for real-world applications
+* **Vision Language Action Models**: Testing capabilities of OpenVLA, Pi0, smolvla, xvla, GROOT
+* **World Models**: Testing language and physical grounding capabilities of World models
 
 Academic Background
 ======
@@ -25,7 +27,7 @@ I graduated first in my class from the University of Asia Pacific with a Bachelo
 
 Research Contributions
 ======
-I have published 6 peer-reviewed papers (4 journal articles and 2 conference papers) in venues including IEEE Access, Data in Brief, ACL 2025, and NAACL 2025. My work spans:
+I have published more than 6 peer-reviewed papers (4 journal articles and 2 conference papers) in venues including IEEE Access, Data in Brief, ACL 2025, and NAACL 2025. My work spans:
 
 * **Text-to-Image Generation**: Developed multiple systems for generating face images from Bangla text using GANs, Stable Diffusion, and BanglaBERT
 * **Generative Models for Low-Resource Scripts**: Created Okkhor-Diffusion, a DDPM-based system for generating Bangla handwritten characters
@@ -41,7 +43,7 @@ I have contributed to the research community as a peer reviewer for IEEE Access,
 
 Looking Forward
 ======
-I am excited to pursue doctoral studies where I can continue advancing multimodal generative AI systems, particularly focusing on making these technologies more robust, efficient, and accessible across diverse languages and cultures. I aim to contribute to building AI systems that are not only technically sophisticated but also ethically sound and globally inclusive.
+I am excited to pursue doctoral studies where I can continue advancing multimodal generative AI systems, particularly focusing on making these technologies more robust, efficient, and accessible across diverse modalities, languages and cultures. I aim to contribute to building AI systems that are not only technically sophisticated but also ethically sound and globally inclusive.
 
 Feel free to explore my [publications](/publications/) to learn more about my work. I am always open to research collaborations and discussions about generative AI, low-resource language technologies, and fairness in machine learning.
 
